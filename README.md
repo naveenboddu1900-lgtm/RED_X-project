@@ -148,6 +148,8 @@ Seeded store examples include:
 - Scarlet Station
 - Blaze Bazaar
 
+GitHub Project board: `https://github.com/users/naveenboddu1900-lgtm/projects/7`
+
 Common frontend route examples:
 
 - Store listing: `http://localhost:5173/store/:storeSlug`
