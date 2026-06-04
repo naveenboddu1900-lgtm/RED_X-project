@@ -136,6 +136,18 @@ Once both servers are running, open the app in your browser at:
 
 After seeding, the backend can create 10 sample stores with 100 products per store for a larger catalog.
 
+Seeded store examples include:
+- Nova Goods Hub
+- Luna Studio Decor
+- Green Basket Market
+- Pixel Pantry Shop
+- Echo Essentials Store
+- Crimson Curations
+- Ruby Runners Shop
+- Velvet Vantage
+- Scarlet Station
+- Blaze Bazaar
+
 Common frontend route examples:
 
 - Store listing: `http://localhost:5173/store/:storeSlug`

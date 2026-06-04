@@ -61,6 +61,12 @@ const vendorTemplates = [
     description: 'Urban tech accessories, travel essentials, and everyday carry.',
     logo: 'https://dummyimage.com/600x600/ff3b44/ffffff&text=RED_x+Scarlet',
   },
+  {
+    name: 'Blaze Bazaar',
+    storeName: `Blaze Bazaar ${randomSuffix}`,
+    description: 'Trend-forward apparel, street accessories, and urban essentials.',
+    logo: 'https://dummyimage.com/600x600/ff2a2a/ffffff&text=RED_x+Blaze',
+  },
 ];
 
 const adminTemplates = [
